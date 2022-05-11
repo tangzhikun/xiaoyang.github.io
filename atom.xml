@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xiaoyangnvshi.github.io</id>
+    <id>https://xiaoyang.github.io</id>
     <title>Gridea</title>
-    <updated>2022-05-11T08:15:22.362Z</updated>
+    <updated>2022-05-11T08:21:23.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://xiaoyangnvshi.github.io"/>
-    <link rel="self" href="https://xiaoyangnvshi.github.io/atom.xml"/>
+    <link rel="alternate" href="https://xiaoyang.github.io"/>
+    <link rel="self" href="https://xiaoyang.github.io/atom.xml"/>
     <subtitle>健康教室</subtitle>
-    <logo>https://xiaoyangnvshi.github.io/images/avatar.png</logo>
-    <icon>https://xiaoyangnvshi.github.io/favicon.ico</icon>
+    <logo>https://xiaoyang.github.io/images/avatar.png</logo>
+    <icon>https://xiaoyang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[勤洗手，讲卫生]]></title>
-        <id>https://xiaoyangnvshi.github.io/post/qin-xi-shou-jiang-wei-sheng/</id>
-        <link href="https://xiaoyangnvshi.github.io/post/qin-xi-shou-jiang-wei-sheng/">
+        <id>https://xiaoyang.github.io/post/qin-xi-shou-jiang-wei-sheng/</id>
+        <link href="https://xiaoyang.github.io/post/qin-xi-shou-jiang-wei-sheng/">
         </link>
         <updated>2022-05-11T07:36:14.000Z</updated>
         <content type="html"><![CDATA[<h2 id="1-something-about-it">1. something about it</h2>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[吸烟有害健康]]></title>
-        <id>https://xiaoyangnvshi.github.io/post/NoSmoke/</id>
-        <link href="https://xiaoyangnvshi.github.io/post/NoSmoke/">
+        <id>https://xiaoyang.github.io/post/NoSmoke/</id>
+        <link href="https://xiaoyang.github.io/post/NoSmoke/">
         </link>
         <updated>2022-05-11T06:00:00.000Z</updated>
         <content type="html"><![CDATA[<h2 id="1-something-about-it">1. something about it</h2>
